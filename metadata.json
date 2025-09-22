@@ -1,0 +1,5 @@
+{
+  "name": "AI Meme Generator & Chatbot",
+  "description": "An AI-powered meme generator with a multilingual chatbot. Create, customize, and share memes from popular templates. The chatbot provides assistance and meme ideas in multiple languages.",
+  "requestFramePermissions": []
+}
